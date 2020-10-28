@@ -35,7 +35,7 @@ cd C-LAVA
 ls
 ``` 
 ```python
-python2 lavapy
+python2 lava.py
 ```
 
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
