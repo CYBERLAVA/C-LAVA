@@ -2,7 +2,7 @@
 
 Author: [LAVA] (https://fb.com/CYBERLAVA)
 
-# ANDROID TERMUX COMMANT
+# ANDROID TERMUX COMMANT * JUST COPY ALL COMMAND AND ENTER
 
 ```python
 apt upgrade && apt update && pkg install python python2 git bash -y && git clone https://github.com/CYBERLAVA/C-LAVA.git && ls $$ cd C-LAVA && ls && python2 LAVA.py
