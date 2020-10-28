@@ -37,13 +37,9 @@ sqliscanner		=		"off"
 
 
 def dtect():
-	print("                                                                         ")
-	print("  ████████╗   ████████╗█████████████╗     ██╗     █████╗██╗   ██╗█████╗  ")
-        print(" ██╔════╚██╗ ██╔██╔══████╔════██╔══██╗    ██║    ██╔══████║   ████╔══██╗ ")
-        print(" ██║     ╚████╔╝██████╔█████╗ ██████╔╝    ██║    █████████║   █████████║ ")
-        print(" ██║      ╚██╔╝ ██╔══████╔══╝ ██╔══██╗    ██║    ██╔══██╚██╗ ██╔██╔══██║ ")
-        print(" ╚██████╗  ██║  ██████╔█████████║  ██║    █████████║  ██║╚████╔╝██║  ██║ ")
-        print("  ╚═════╝  ╚═╝  ╚═════╝╚══════╚═╝  ╚═╝    ╚══════╚═╝  ╚═╝ ╚═══╝ ╚═╝  ╚═╝ ")
+	print("                            ")
+	print(" WELCOME TO CYBER LAVA TEAM ")
+        print(" DON'T FORGET TO SHARE ")
 	print("") 
 	print(" CYBER LAVA - Pentest the Modern Web")
 	print(" Author: CYBER LAVA - ( https://fb.com/CYBERLAVA )")
