@@ -18,12 +18,9 @@ apt update
 ``` 
 
 ```python
-pkg install python python2
+pkg install python python2 git bash -y 
 ``` 
 
-```python
-git bash -y 
-```
 ```python
 git clone https://github.com/CYBERLAVA/C-LAVA.git 
 ```
