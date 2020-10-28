@@ -4,31 +4,41 @@ Author: [LAVA] (https://fb.com/CYBERLAVA)
 
 # ANDROID TERMUX COMMANT
 
-```apt upgrade && apt update && pkg install python python2 git bash -y && git clone https://github.com/CYBERLAVA/C-LAVA.git && ls $$ cd LAVA-1 && ls && python2 LAVA.py
+```python
+apt upgrade && apt update && pkg install python python2 git bash -y && git clone https://github.com/CYBERLAVA/C-LAVA.git && ls $$ cd LAVA-1 && ls && python2 LAVA.py
 ```
 # ANDROID TERMUX COMMANT
 
-```apt upgrade
+```python
+apt upgrade
 ``` 
 
-```apt update
+```python
+apt update
 ``` 
 
-```pkg install python python2
+```python
+pkg install python python2
 ``` 
 
-```git bash -y 
+```python
+git bash -y 
 ```
-```git clone https://github.com/CYBERLAVA/C-LAVA.git 
+```python
+git clone https://github.com/CYBERLAVA/C-LAVA.git 
 ```
 
-```ls
+```python
+ls
 ``` 
-```cd C-LAVA
+```python
+cd C-LAVA
 ``` 
-```ls
+```python
+ls
 ``` 
-``` python2 LAVA.py
+```python
+python2 LAVA.py
 ```
 
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
